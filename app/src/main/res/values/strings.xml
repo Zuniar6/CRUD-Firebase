@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrudFirebase</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="ttl">TTL</string>
+    <string name="email">Email</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="simpan">Simpan</string>
+    <string name="contoh_email">yourname@gmai.com</string>
+    <string name="contoh_desk">Saya adalah seorang...</string>
+</resources>
